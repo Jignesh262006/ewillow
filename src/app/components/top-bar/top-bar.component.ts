@@ -15,7 +15,6 @@ export class TopBarComponent {
 
   openSidebar() {
     this.toggle.setSidebarState(true);
-    console.log('open', this.toggle.setSidebarState(true));
   }
 
 
